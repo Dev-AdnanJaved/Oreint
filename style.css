@@ -1278,7 +1278,9 @@ body {
 
   }
 
-
+.hide-finish {
+  display: none;
+}
   .alerts {
     height: 35px;
     padding: 0 10px;
